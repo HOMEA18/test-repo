@@ -1,3 +1,2 @@
 # test-repo ok
-This is a test
-I'm going banana
+new in the same branch
